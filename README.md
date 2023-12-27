@@ -12,7 +12,8 @@
 
 # Тестирование:
 Так же для API модели машинного обучения, были созданны тесты ![image](https://sun9-35.userapi.com/impg/dMdDKkcUFQJ5q8ffZ-4Q7D5OHY9DI4A_dI_jaA/sjghUCYzJLA.jpg?size=889x553&quality=96&sign=45ccfc51282ef99d16b86e1cc296fc34&type=album)
-Первый тест проверяет успешность подключения. Второй и третий проверяют правельность предсказания модели. Так же в репозитории git-hub настроен автоматический запуск тестов при выполнении commit в репозиторий ![image](https://sun9-35.userapi.com/impg/dMdDKkcUFQJ5q8ffZ-4Q7D5OHY9DI4A_dI_jaA/sjghUCYzJLA.jpg?size=889x553&quality=96&sign=45ccfc51282ef99d16b86e1cc296fc34&type=album)
+Первый тест проверяет успешность подключения. Второй и третий проверяют правельность предсказания модели. Так же в репозитории git-hub настроен автоматический запуск тестов при выполнении commit в репозиторий ![image](https://sun9-18.userapi.com/impg/onKG7dvpKmqamTo5VH78_2eJCJbWUSDzVuAF7A/Ta9MUt2RAQ8.jpg?size=1096x790&quality=96&sign=29278db77e97fcc0434aebd863c6ad9c&type=album)
+(https://sun9-15.userapi.com/impg/wxaOYJIT7o2wIVqLb5R1nOzvYNDVO1DLBk38fQ/LyRgBT7w1kQ.jpg?size=1077x604&quality=96&sign=cd045b81de16be93051e96ae949b759a&type=album)
 # Команда:
 Шубат Марк Игоревич РИМ-130907
 Чеботарев Константин Викторович РИМ-130907
